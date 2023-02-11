@@ -1,2 +1,2 @@
 # P3_AlgNum
-Prova de Algoritmos do Saulo
+Alunos : Fábio Henrique Thompson Costa, Júlia Libânia Thompson Costa, Rafael Fracalossi Freitas
